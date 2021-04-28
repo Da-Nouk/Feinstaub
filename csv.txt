@@ -1,0 +1,14 @@
+Spalte 1: Die Sensor ID um die verschiedenen Sensoren unterscheiden zu können
+Spalte 2: Der Sensortyp
+Spalte 3: Ort
+Spalte 4: Latitude (Breitengrad)
+Spalte 5: Longitude (Längengrad)
+Spalte 6: Zeitstempel
+Spalte 7: Temperatur
+Spalte 8: Luftfeuchtigkeit
+
+Die Zeilen geben jeweisl die Sensor ID, Typ, Standort sowohl Breiten- 
+als auch Längengrad aus (gleichbleibend) Die hinteren 3 Zeilen geben den jeweiligen Zeitstempel und die gemessene Temperatur und Luftfeuchtigkeit aus
+Die Zeitabstände in denen gemessenwird betragen: 2 Minuten 26 Sekunden / 27 Sekunden
+
+Wenn ein Datum eingetragen ist, ist dies eine Referenz
